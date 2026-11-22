@@ -2,7 +2,7 @@
 
 Оригінальна графіка, звуки C45, палітра з жовтим підсвічуванням Siemens або чорно-біла. 
 
-За основу був узятий фанатський ремейк під Flipper Zero від Negenii (http://github.com/Negenii/flipper-stack-attack)
+За основу був узятий фанатський ремейк під Flipper Zero від ([@Negenii](https://github.com/Negenii)).
 
 ### Як запустити: 
 
